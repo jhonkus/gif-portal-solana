@@ -1,4 +1,5 @@
-# GIF Portal with Smart Contract in Solana network
+# GIF Portal
+This portal developed with React for frontend and rust programming language as smartcontract and then deployed to SOLANA network.
 
 ### **Welcome 👋**
 To run this repo
